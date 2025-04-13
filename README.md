@@ -31,6 +31,7 @@
 ✅ Hook ChatGPT API in `ai-agent`
 ✅ Build your vibe-powered smart room
 
+“AI agent is mocked to avoid accidental API billing. System is fully ready for OpenAI integration — just add key and un-comment. Designed for scalability and deployability.”
 ---
 
 Made with ❤️ by @moazizbo
